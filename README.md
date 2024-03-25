@@ -2,12 +2,9 @@
  😁
 
  <div>
-   <a href="https://github.com/W2zz
-">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=W2zz
-&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=W2zz
-&layout=compact&langs_count=6&theme=tokyonight"/>
+   <a href="https://github.com/W2zz">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=W2zz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=W2zz&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
 <div style="display: inline_block"><br>
