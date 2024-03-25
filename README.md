@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do W2zz
+## Bem-vindo(a) ao perfil do Pedro Henrique Vargas Silva
  😁
 
  <div>
@@ -17,7 +17,7 @@
  
 ### Pra conteúdo sobre programação me segue nas redes abaixo!
  
-<div>   <a href="https://youtube.com/@wizzcars7491"target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"target="_blank"></a>
-  <a href="https://www.instagram.com/pedro_vargas074"target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"target="_blank"></a>
+<div>   <a href="https://youtube.com/@wizzcars7491" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"target="_blank"></a>
+  <a href="https://www.instagram.com/pedro_vargas074" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"target="_blank"></a>
   <a href="https://www.linkedin.com/in/pedro-henrique-vargas-silva-b48069274" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
